@@ -1,0 +1,3 @@
+#SQUARE OF A NUMBER : 
+A = int(input("ENTER THE VALUE : "))
+print("THE SQAURE OF INPUT NUMBER IS : ", A*A)
