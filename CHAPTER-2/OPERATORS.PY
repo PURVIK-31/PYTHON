@@ -1,0 +1,38 @@
+# TYPES OF OPERATORS :
+# 1. ARITHEMATIC OPERATOR
+# A= 1
+# B= 2
+# SUM = A+B
+# print(SUM)
+
+# 2. ASSIGNMENT OPERATOR
+# A= 1
+# A += 2
+# print(A)
+
+# 3. COMPARISON OPERATOR -->RETURNS BOOLEAN VALUE
+FIRST= 1
+SECOND=2
+RESULT = FIRST == SECOND
+print(RESULT)
+# 4. LOGICAL OPERATOR
+E = True or False
+print(E)
+# TRUTH TABLE OF OR :
+# A B  A OR B
+# T T  T
+# T F  T
+# F T  T
+# F F  F
+
+# TRUTH TABLE OF AND :
+# A B  A AND B
+# T T  T
+# T F  F
+# F T  F
+# F F  F
+
+# TRUTH TABLE OF NOT :
+# A  NOT A
+# T  F
+# F  T
