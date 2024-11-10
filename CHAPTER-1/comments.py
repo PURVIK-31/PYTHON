@@ -7,5 +7,3 @@ print("THIS IS A MULTI LINE COMMENT :  ")
 print("ignored op ~~")
 HI THERE GURURJI
 """
-cool!!
-studd!!
